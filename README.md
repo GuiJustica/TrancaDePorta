@@ -2,5 +2,5 @@
 Trabalho de Assembly - FEI
 
 Realizado por:
-  Guilherme Justiça
-  Paulo Vinicius Feitosa
++ Guilherme Justiça
++ Paulo Vinicius Feitosa
